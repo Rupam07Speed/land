@@ -1,0 +1,10 @@
+const String illustration1 = 'assets/Images/headerImage.png';
+const String landInspector = 'assets/Images/b.png';
+const String contractOwner = 'assets/Images/c.png';
+const String user = 'assets/Images/a.png';
+const String appStore = "assets/Images/Download_on_the_App_Store_Badge.webp";
+const String playStore = "assets/Images/Google_Play_Store_badge_EN.webp";
+const String formBackground = "assets/Images/Design.png";
+const String metamasklogo = "assets/Images/icons8-metamask-logo-96.png";
+const String phonecart = "assets/Images/miniTab.webp";
+const String avatar = "assets/Images/7309681.jpg";
